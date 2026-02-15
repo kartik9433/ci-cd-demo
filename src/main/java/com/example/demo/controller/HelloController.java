@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String getName(){
-        return "hello everyone.......";
+        return "hello everyone.......git";
     }
 
 }
